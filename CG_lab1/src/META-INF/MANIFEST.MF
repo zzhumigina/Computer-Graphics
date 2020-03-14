@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: cg_lab1.Main
+

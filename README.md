@@ -8,3 +8,7 @@ Information about graphic files
 
 Lab 3:
 Segmentation using K-means algorythm, linear contrasting and equalization of histograms of graphic files
+
+
+Lab 4:
+Basic rasterization algorithms

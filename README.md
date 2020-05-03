@@ -12,3 +12,7 @@ Segmentation using K-means algorythm, linear contrasting and equalization of his
 
 Lab 4:
 Basic rasterization algorithms
+
+
+Lab 5: 
+Liang–Barsky clipping algorithm
